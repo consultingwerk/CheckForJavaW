@@ -20,3 +20,27 @@ For Windows 8, the Autostart folder may be found here: http://www.addictivetips.
 The tool creates an icon on the Windows System tray. Windows System tray icons visibility can be controlled as described here: http://www.makeuseof.com/tag/manage-and-tidy-the-windows-7-system-tray/
 
 For best use, the icon of the utility should always be shown on the system tray.
+
+# Icons
+
+Icons used from: http://www.iconarchive.com/show/red-orb-alphabet-icons-by-iconarchive.html
+
+------------------------------------------------
+Red Orb Alphabet Icons (by IconArchive.com)
+------------------------------------------------
+
+This work is licensed under a
+Creative Commons Attribution 3.0 License.
+http://creativecommons.org/licenses/by/3.0/
+
+This means you may use it for any purpose,
+and make any changes you like.
+All I ask is that you include a link back
+to www.iconarchive.com in your credits.
+
+Special thanks to:
+- Devotopia.com
+- Fontdiner.com (for the beautiful font called "Huggable")
+
+Copyright © 2010 IconArchive.com
+
