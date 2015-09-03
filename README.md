@@ -3,7 +3,7 @@ Utility to monitor number of executed Progress Developer Studio for OpenEdge ins
 
 The utility displays the number of executed javaw.exe processes (likely Progress Developer Studio for OpenEdge or OpenEdge architect) in the windows system tray.
 
-![](Screenshots/Screenshot.png)
+![Utility indicating 2 instances of Progress Developer Studio running](Screenshots/Screenshot.png)
 
 Shutting down Windows or logging off form a Windows Terminal Server session while Progress Developer Studio is still executed may cause in abnormal shutdown of the PDSOE tool. As PDSOE sometimes takes minutes to shut down completely after the workbench window has been closed this may be hard to track.
 
