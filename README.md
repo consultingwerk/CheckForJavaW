@@ -19,7 +19,7 @@ For Windows 8, the Autostart folder may be found here: http://www.addictivetips.
 
 The tool creates an icon on the Windows System tray. Windows System tray icons visibility can be controlled as described here: http://www.makeuseof.com/tag/manage-and-tidy-the-windows-7-system-tray/
 
-For best use, the icon of the utility should always be shown on the system tray.
+For best use, the icon of the utility should always be shown on the system tray: http://www.howtogeek.com/75510/beginner-how-to-customize-and-tweak-your-system-tray-icons-in-windows-7/
 
 # Icons
 
